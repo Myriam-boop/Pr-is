@@ -1,0 +1,33 @@
+body {
+	background-image :  radial-gradient (círculo al 50 %  -20.71 % ,  # 6fc9f5  0 ,  # 79c7f9  6.25 % ,  # 84c5fb  12.5 % ,  # 90c3fc  18.75 % ,  # 9bc0fc  25 % ,  # a7bdfb  31.25 % ,  # b3bbf9  37.5 % ,  # beb8f6  43,75 % ,  # c8b5f2  50 % , # d2b2ed  56.25 % ,  # dbb0e8  62.5 % ,  # e3ade1  68.75 % ,  # e9abda  75 % ,  # efaad3  81.25 % ,  # f4a8cb  87.5 % ,  # f8a7c3  93.75 % ,  # fba7bc  100 % );
+
+}
+h1 {
+	familia de fuentes :  'Cormorant Unicase' ;
+	tamaño de fuente :  40 px ;
+	color : blanco;
+	alineación de texto : centro;
+	borde : 4 px con puntos # fff9f9 ;
+	relleno :  8 px ;
+}
+p {
+	familia de fuentes : 'Courgette'
+	tamaño de fuente : 25px;
+	alineación de texto :  centro ;
+	color :  blanco ;
+}
+  img {
+    ancho :  750 px ;
+    altura :  550 px ;
+    pantalla : bloque;
+    margen : automático;
+}
+. imagen1 : hover {
+  filtro :  escala de grises ( 90 % );
+}
+. imagen2 : hover {
+  filtro :  desenfoque ( 3 px );
+}
+. imagen3 : hover {
+  filtro :  opacidad ( .5 );
+}
