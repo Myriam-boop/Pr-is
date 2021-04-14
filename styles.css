@@ -40,30 +40,21 @@ img{
 }
 header{
    width: 100%;
-   background: #1f4037;  /* fallback for old browsers */
-   background: -webkit-linear-gradient(to right, #99f2c8, #1f4037);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #99f2c8, #1f4037); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
    height: 70px;
+   background:#f08080;
 }
 
 .ancho{
     widht: 80%;
     height: 70px;
-    background: #1f4037;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #99f2c8, #1f4037);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #99f2c8, #1f4037); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+    background:#f08080;
     margin: auto;
 
 }
 .logo{
     width: 30%;
     height: 70px;
-    background: #1f4037;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #99f2c8, #1f4037);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #99f2c8, #1f4037); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+    background: #f08080;
     float: left;
     padding-top: 10px;
     box-sizing: border=box;
@@ -77,10 +68,7 @@ header{
 nav{
     widht: 70%;
     height: 70px;
-    background: #1f4037;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #99f2c8, #1f4037);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #99f2c8, #1f4037); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+    background: #f08080;
     float: left;
     text-align: right;
     padding-top: 24px;
