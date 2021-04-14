@@ -64,6 +64,7 @@ header{
      color: #fff;
      font-size: 40px;
      text-decoration: none;
+     box-sizing: border=box;
 }
 nav{
     widht: 70%;
