@@ -37,21 +37,21 @@ img{
 }
 header{
    width: 100%;
-   background: white;
+   background: #1ABC9C;
    height: 70px;
 }
 
 .ancho{
     widht: 80%;
     height: 70px;
-    background: white;
+    background: #1ABC9C;
     margin: auto;
 
 }
 .logo{
     width: 30%;
     height: 70px;
-    background: white;
+    background: 1ABC9C;
     float: left;
     padding-top: 10px;
     box-sizing: border=box;
@@ -65,17 +65,17 @@ header{
 nav{
     widht: 70%;
     height: 70px;
-    background: white;
+    background: 1ABC9C;
     float: left;
     text-align: right;
     padding-top: 24px;
-    box-sizing: border-top;
+    box-sizing: border-box;
 }
 nav ul li{
     display: inline;
 }
 nav ul li a{
-    color: #000000;
+    color: #fff;
     font-size: 13px;
     text-decoration: none;
     text-transform: uppercase;
