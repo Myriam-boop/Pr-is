@@ -57,14 +57,14 @@ header{
     background: #f08080;
     float: left;
     padding-top: 10px;
-    box-sizing: border=box;
+    box-sizing: border-box;
 }
 
 .logo p a{
      color: #fff;
      font-size: 40px;
      text-decoration: none;
-     box-sizing: border=box;
+     
 }
 nav{
     widht: 70%;
