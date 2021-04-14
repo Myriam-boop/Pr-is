@@ -31,7 +31,10 @@ img{
   filter: opacity(.5);
 }
 
-
+*{
+    margin: 0;
+    padding: 0;
+}
 header{
    width: 100%;
    background: red;
