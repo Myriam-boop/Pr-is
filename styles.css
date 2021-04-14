@@ -1,5 +1,8 @@
 body{
-	background-image: radial-gradient (círculo al 50 %  -20.71 % ,  # 6fc9f5  0 ,  # 79c7f9  6.25 % ,  # 84c5fb  12.5 % ,  # 90c3fc  18.75 % ,  # 9bc0fc  25 % ,  # a7bdfb  31.25 % ,  # b3bbf9  37.5 % ,  # beb8f6  43,75 % ,  # c8b5f2  50 % , # d2b2ed  56.25 % ,  # dbb0e8  62.5 % ,  # e3ade1  68.75 % ,  # e9abda  75 % ,  # efaad3  81.25 % ,  # f4a8cb  87.5 % ,  # f8a7c3  93.75 % ,  # fba7bc  100 % );
+	background: #9796f0;  /* fallback for old browsers */
+        background: -webkit-linear-gradient(to right, #fbc7d4, #9796f0);  /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to right, #fbc7d4, #9796f0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 h1{
 	font-family:'Cormorant Unicase';
