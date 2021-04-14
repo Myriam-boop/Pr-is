@@ -44,5 +44,7 @@ header{
 .ancho{
     widht: 80%;
     height: 70px;
+    background: white;
+    margin: auto;
 
 }
