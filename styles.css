@@ -37,6 +37,12 @@ img{
 }
 header{
    width: 100%;
-   background: black;
+   background: white;
    height: 70px;
+}
+
+.ancho{
+    widht: 80%;
+    height: 70px;
+
 }
