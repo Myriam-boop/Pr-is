@@ -1,5 +1,5 @@
 body{
-	background-image: background: radial-gradient(circle at 50% -20.71%, #ff65b3 0, #ff59c0 10%, #ff4ecd 20%, #ff45d9 30%, #ff3fe6 40%, #f23cf2 50%, #d33ffe 60%, #ad46ff 70%, #7b4fff 80%, #0058ff 90%, #0060ff 100%);
+	background-image: radial-gradient (círculo al 50 %  -20.71 % ,  # 6fc9f5  0 ,  # 79c7f9  6.25 % ,  # 84c5fb  12.5 % ,  # 90c3fc  18.75 % ,  # 9bc0fc  25 % ,  # a7bdfb  31.25 % ,  # b3bbf9  37.5 % ,  # beb8f6  43,75 % ,  # c8b5f2  50 % , # d2b2ed  56.25 % ,  # dbb0e8  62.5 % ,  # e3ade1  68.75 % ,  # e9abda  75 % ,  # efaad3  81.25 % ,  # f4a8cb  87.5 % ,  # f8a7c3  93.75 % ,  # fba7bc  100 % );
 }
 h1{
 	font-family:'Cormorant Unicase';
