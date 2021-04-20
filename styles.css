@@ -56,7 +56,7 @@ header{
     height: 70px;
     background: #f08080;
     float: left;
-    padding-top: 10px;
+    padding-top: 10px; 
     box-sizing: border-box;
 }
 
@@ -91,7 +91,7 @@ nav ul li a:hover{
     color: #444;
 }
 .bloque1{
-     widht: 80%;
+     widht: 50%;
      margin: 0 auto;
      background: #ffdde1;
      
