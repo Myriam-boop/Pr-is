@@ -90,7 +90,9 @@ nav ul li a{
 nav ul li a:hover{
     color: #444;
 }
-.imgs{
-     background: #fff;
+.img 1{
+     background: #ffdde1;
+     widht: 80%;
+     height: 60%;
 
 
