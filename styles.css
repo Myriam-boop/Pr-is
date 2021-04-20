@@ -91,10 +91,11 @@ nav ul li a:hover{
     color: #444;
 }
 .bloque1{
-     widht: 50%;
+     widht: 50px;
      height: 70px;
      margin: 0 auto;
      background: #ffdde1;
+     color: black;
 }
 
 
