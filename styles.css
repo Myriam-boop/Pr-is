@@ -27,6 +27,7 @@ img{
 {
 .imagen1
  border-radius: 1000px;
+ font-family:'Cormorant Unicase';
 }
 .imagen2:hover{
   filter: blur(3px);
