@@ -25,6 +25,7 @@ p{
       height:  550 px ;
       margin : automatic;
       display: block;
+      border-radius: 50%;
 }
 header{
    width: 100%;
