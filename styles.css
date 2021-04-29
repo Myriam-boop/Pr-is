@@ -43,20 +43,20 @@ img{
 header{
    width: 100%;
    height: 70px;
-   background:#008b8b;
+   background:#8fbc8f;
 }
 
 .ancho{
     widht: 80%;
     height: 70px;
-    background:#008b8b;
+    background:#8fbc8f;
     margin: auto;
 
 }
 .logo{
     width: 30%;
     height: 70px;
-    background: #008b8b;
+    background: #8fbc8f;
     float: left;
     padding-top: 10px; 
     box-sizing: border-box;
@@ -71,7 +71,7 @@ header{
 nav{
     widht: 70%;
     height: 70px;
-    background: #008b8b;
+    background: #8fbc8f;
     float: left;
     text-align: right;
     padding-top: 24px;
