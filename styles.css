@@ -24,6 +24,7 @@ img {
       width :  750 px ;
       height:  550 px ;
       margin : automatic;
+      display: block;
 }
 header{
    width: 100%;
