@@ -28,8 +28,8 @@ img{
 }
 
 .imagen1{
-    border-radius: 1500px;
-    borde: solid;
+    border-radius: 500px;
+    borde: 7px dotted;
  
 }
 .imagen2:hover{
