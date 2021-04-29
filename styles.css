@@ -20,23 +20,10 @@ p{
         text-align: center;
         color: white;
 }
-
-.imagen1{
-    border-radius: 50%;
-    width:700px;
-    height:300px;
- 
-}
-.imagen2:hover{
-  filter: blur(3px);
-}
-.imagen3:hover{
-  filter: opacity(.5);
-}
-
-*{
-    margin: 0;
-    padding: 0;
+img {
+      width :  750 px ;
+      height:  550 px ;
+      margin : automatic;
 }
 header{
    width: 100%;
