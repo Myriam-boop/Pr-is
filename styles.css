@@ -24,10 +24,10 @@ img{
 	display:block;
 	margin:auto;
 }
-{
-.imagen1
- border-radius: 1000px;
- font-family:'Cormorant Unicase';
+
+.imagen1{
+    border-radius: 1000px;
+ 
 }
 .imagen2:hover{
   filter: blur(3px);
@@ -96,6 +96,7 @@ nav ul li a:hover{
      widht: 50px;
      heigh: 50px;
      background: #fff8dc;
+     font-family:'Cormorant Unicase';
 }
 
 
