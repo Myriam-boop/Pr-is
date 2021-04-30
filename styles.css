@@ -24,6 +24,9 @@ p{
 .img1{
      width: 750px;
      heigth:250px;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
 }
 
 header{
