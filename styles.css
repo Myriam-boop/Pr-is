@@ -22,23 +22,13 @@ p{
   color: white;
 }
 
-
-img{
-	width: 750px;
-	height: 550px;
-	display:block;
-	margin:auto;
+.img1{
+     width: 500px;
+     display: block;
+     margin: auto;
+     border-radius: 50px;
+     border: withe  8px ridge;
 }
-.imagen1:hover{
-  filter: grayscale(90%);
-}
-.imagen2:hover{
-  filter: blur(3px);
-}
-.imagen3:hover{
-  filter: opacity(.5);
-}
-
 
 *{
   margin: 0;
