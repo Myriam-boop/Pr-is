@@ -2,21 +2,6 @@ body{
 	background-image: radial-gradient(circle at 50% -20.71%, #ff65b3 0, #ff59c0 10%, #ff4ecd 20%, #ff45d9 30%, #ff3fe6 40%, #f23cf2 50%, #d33ffe 60%, #ad46ff 70%, #7b4fff 80%, #0058ff 90%, #0060ff 100%);
 }
 
-*{
-  margin: 0;
-  padding: 0;
-}
-
-header{
-       width:100%;
-       background:#8FBC8B;
-       height: 70px;
-}
-
-.ancho{
-        width: 80%;
-        height: 70px;
-}
 
 h1{
 	font-family:'Cormorant Unicase';
@@ -26,12 +11,16 @@ h1{
 	border: 4px dotted #fff9f9;
 	padding: 8px;
 }
+
+
 p{
 	font-family:'Courgette'
 	font-size: 25px;
   text-align: center;
   color: white;
 }
+
+
 img{
 	width: 750px;
 	height: 550px;
@@ -46,4 +35,22 @@ img{
 }
 .imagen3:hover{
   filter: opacity(.5);
+}
+
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+header{
+       width:100%;
+       background:#8FBC8B;
+       height: 70px;
+}
+
+.ancho{
+        width: 80%;
+        height: 70px;
 }
