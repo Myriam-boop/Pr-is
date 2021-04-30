@@ -97,6 +97,7 @@ nav ul li a:hover{
             height: 50px;
             background: #8FBC8B;
             font-family: 'Cormorant Unicase';
+            text-align: center;
 }
 
 .contenedor {
