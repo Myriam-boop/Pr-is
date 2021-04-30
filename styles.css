@@ -12,6 +12,12 @@ header{
        background:#8FBC8B;
        height: 70px;
 }
+
+.ancho{
+        width: 80%;
+        height: 70px;
+}
+
 h1{
 	font-family:'Cormorant Unicase';
 	font-size: 40px;
