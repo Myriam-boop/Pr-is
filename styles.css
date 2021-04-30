@@ -21,14 +21,6 @@ p{
         color: white;
 }
 
-.img1{
-     display: block;
-     margin: auto;
-     width: 500px;
-     border-radius: 50px;
-     border: black 8px ridge;
-}
-
 header{
    width: 100%;
    height: 70px;
@@ -88,5 +80,14 @@ nav ul li a:hover{
      font-family:'Cormorant Unicase';
      
 }
+
+img1{
+     display: block;
+     margin: auto;
+     width: 500px;
+     border-radius: 50px;
+     border: withe  8px ridge;
+}
+
 
 
