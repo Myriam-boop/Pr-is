@@ -26,6 +26,7 @@ p{
      margin: auto;
      width: 500px;
      border-radius: 50px;
+     border: white 8px ridge;
 }
 
 header{
