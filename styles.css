@@ -22,10 +22,9 @@ p{
 }
 
 .img1{
-     width: 50%;
      display: block;
-     margin-left: auto;
-     margin-right: auto;
+     margin: auto;
+     
 }
 
 header{
