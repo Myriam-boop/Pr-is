@@ -153,7 +153,7 @@ nav ul li a:hover{
        margin-bottom: 1200px;
        transition: all 500ms ease-out;
        margin-top: 30px;
-       font-family: 'Courgette';
+       padding: 10px;
 }
 
 .contenedor figure .capa p{
@@ -163,5 +163,5 @@ nav ul li a:hover{
        widht: 100%;
        max-widht: 220px;
        margin: auto;
-       font-family: 'Courgette';
+       padding: 10px;
 }
