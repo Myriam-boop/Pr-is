@@ -22,6 +22,16 @@ p{
 }
 
 
+.img1{
+     width: 500px;
+     display: block;
+     margin: auto;
+     border-radius: 50px;
+     border: withe  8px ridge;
+}
+
+
+
 
 header{
    width: 100%;
@@ -85,14 +95,6 @@ nav ul li a:hover{
      
 }
 
-
-.img1{
-     width: 500px;
-     display: block;
-     margin: auto;
-     border-radius: 50px;
-     border: withe  8px ridge;
-}
 
 
 
