@@ -109,8 +109,8 @@ nav ul li a:hover{
 
 .contenedor figure {
                      position: relative;
-                     height: 50px;
-                     widht: 350px;
+                     height: 250px;
+                     widht: 50px;
                      overflow: hidden;
                      border-radius: 10px;
                      cursor: pointer;
