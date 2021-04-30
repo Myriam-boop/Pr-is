@@ -138,7 +138,7 @@ nav ul li a:hover{
 
 }
 
-.contenedor figure: hover > .capa h2{
+.contenedor figure:hover > .capa h2{
                                       margin-top: 70px;
                                       margin-bottom: 15px;
 }
@@ -159,7 +159,7 @@ nav ul li a:hover{
        color: #fff;
        font-size: 15px;
        line-height: 1.5;
-       widht: 100%
+       widht: 100%;
        max-widht: 220px;
        margin: auto;
 }
