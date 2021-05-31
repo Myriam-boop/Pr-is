@@ -190,5 +190,12 @@ nav ul li a:hover{
   font-size: 30px;
 }
 
+.footer-content{
+            width: 100px;
+            height: 100px;
+            background: #000000;
+            font-family: 'Cormorant Unicase';
+            text-align: center;
+}
 
 
