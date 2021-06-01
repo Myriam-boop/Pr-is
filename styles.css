@@ -115,7 +115,7 @@ nav ul li a:hover{
 }
 
 .contenedor figure {
-                     position: relative;
+                     position: absolute;
                      height: 500px;
                      widht: 50px;
                      overflow: hidden;
@@ -129,7 +129,7 @@ nav ul li a:hover{
 }
 
 .contenedor figure .capa{
-                          position: relative;
+                          position: absolute;
                           top: 0;
                           widht: 100%;
                           height: 100%;
