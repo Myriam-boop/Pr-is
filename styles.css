@@ -154,3 +154,11 @@ nav ul li a:hover{
         flex-wrap: wrap;
     }
 }
+
+
+.bloque2{
+        widht: 100%;
+        height: 50%;
+        font-family: 'Cormorant Unicase';
+        text-align: center;
+}
