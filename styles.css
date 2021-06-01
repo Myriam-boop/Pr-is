@@ -208,7 +208,7 @@ nav ul li a:hover{
 .box{
     width: 300px;
     height: 400px;
-    position: relative;
+    position: absolute;
     overflow: hidden;
     margin: 20px;
     border:3px solid #fff;
