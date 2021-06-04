@@ -162,5 +162,7 @@ nav ul li a:hover{
             background: #8FBC8F;
             font-family: 'Cormorant Unicase';
             text-align: center;
+            margin-left: auto;
+            margin-right: auto;
 }
 
