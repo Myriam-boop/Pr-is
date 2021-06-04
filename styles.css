@@ -157,12 +157,11 @@ nav ul li a:hover{
 
 
 .bloque2{
-            width: 950px;
-            height: 100px;
+            width: 100%;
+            height: 60px;
             background: #8FBC8F;
             font-family: 'Cormorant Unicase';
             text-align: center;
-            margin-left: auto;
-            margin-right: auto;
+            
 }
 
