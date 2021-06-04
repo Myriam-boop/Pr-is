@@ -103,12 +103,6 @@ nav ul li a:hover{
             text-align: center;
 }
 
-.bloque2{
-        widht: 100%;
-        height: 50%;
-        font-family: 'Cormorant Unicase';
-        text-align: center;
-}
 
 
 }
@@ -162,7 +156,9 @@ nav ul li a:hover{
 }
 
 .footer{
-      color: white;
+     widht: 100%;
+      height: 50%;
+      color: black;
       text-align= center;
 }
 
